@@ -1,0 +1,126 @@
+﻿body {
+	margin: 0px;
+	padding: 0px;
+	background: url(images/ozadje.png) repeat-x;
+	font: 13px Trebuchet MS, Helvetica, sans-serif;
+	color: #707070;
+	background-color: #ffffff;
+	line-height: 20px;
+	}
+
+#page {
+	margin: auto;
+	width: 762px;
+	background-color: #eee;
+	}
+
+#banner {
+	background: url(images/banner.png) no-repeat #eee;
+	height: 200px;
+}
+
+#content {
+	background-color: #eee;
+	min-height: 400px;
+}
+
+#leftcolumn {
+	width: 200px;
+	margin-top: 33px;
+	float: left;
+}
+
+#left_top{
+	background: url(images/left_top.png) #eee;
+	width: 200px;
+	height: 21px;
+}
+
+#left_first{
+	background-color: #eee;
+	border-right: 2px solid white;
+	color:#707070;
+	padding: 0px 20px 0px 20px;
+}
+
+#left_bottom{
+	background: url(images/left_bottom.png) #eee;
+	width: 200px;
+	height: 21px;
+}
+
+#left_second{
+	background-color: #eee;
+	border-right: 2px solid white;
+	color:#707070;
+	padding: 0px 20px 0px 20px;
+}
+
+#rightcolumn {
+	background-color: #eee;
+	margin-left: 225px;
+	width: 509px;
+	padding: 10px 25px 10px 0px;
+}
+
+#rightcolumn_naslov{
+	width: 100%;
+	text-align:right;
+	line-height: 24px;
+}
+#clear {
+  clear: both;
+  margin: auto;
+}
+
+#footer {
+	background: url(images/footer.png) no-repeat bottom #eee;
+	margin-top: 0px;
+	padding: 0px 25px 5px 0px;
+	height: 45px;
+	text-align: right;
+	font-size: 11px;
+}
+
+.stevilka {
+	color: #0681bf;
+	font-size: 11px;
+}
+
+.naslov {
+	color: #42a590;
+	font-size: 19px;
+	font-weight: bold;
+}
+
+.podnaslov {
+	font-size: 11px;
+}
+
+ul {
+	padding: 0px 0px 0px 20px;
+	margin: 0px;
+	list-style-type: none;
+}
+
+a:link {
+color: #707070;
+font-weight: bold;
+text-decoration: none;
+}
+
+a:visited {
+color: #707070;
+font-weight: bold;
+text-decoration: none;
+}
+
+a:hover {
+color: #3b907e;
+font-weight: bold;
+text-decoration: none;
+}
+	
+
+
+
