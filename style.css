@@ -91,10 +91,12 @@
 	color: #42a590;
 	font-size: 19px;
 	font-weight: bold;
+	text-align: right;
 }
 
 .podnaslov {
 	font-size: 11px;
+	text-align: right;
 }
 
 ul {
