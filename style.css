@@ -71,8 +71,14 @@ body {
 
 #rightcolumn_upokojitev {
   width: 100%;
-  text-align: left;
-  line-height: 20px
+  text-align: center;
+  line-height: 20px;
+  border-top: 1px solid #CF5D53;
+  border-bottom: 1px solid #CF5D53;
+  padding: 5px 0px;
+  color: #CF5D53;
+  font-size: 16px;
+  font-weight: 700;
 }
 
 #clear {
@@ -107,9 +113,7 @@ body {
 }
 
 .upokojitev {
-  color: #CF5D53;
-  font-size: 16px;
-  text-align: left;
+
 }
 
 ul {
