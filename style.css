@@ -69,6 +69,12 @@ body {
   line-height: 24px
 }
 
+#rightcolumn_upokojitev {
+  width: 100%;
+  text-align: left;
+  line-height: 20px
+}
+
 #clear {
   clear: both;
   margin: auto
